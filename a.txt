@@ -1,8 +1,5 @@
 Testando 
 alteração 
 de arquivo.
-<<<<<<< HEAD
 fdasfas
-=======
 fdasfdas
->>>>>>> 601bb6bd2837dad32cbb406ba2fd317dbb1c3968
