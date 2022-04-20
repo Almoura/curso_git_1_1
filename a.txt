@@ -3,6 +3,4 @@ alteração
 de arquivo.
 fdasfas
 fdasfdas
-Enviando
-a funcionalidade
-X
+Enviando a funcionalidade b
